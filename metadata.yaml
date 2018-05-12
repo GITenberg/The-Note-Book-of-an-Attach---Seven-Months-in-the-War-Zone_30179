@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34416'
     url: http://www.gutenberg.org/2009/agents/34416
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30179#The-Note-Book-of-an-Attach---Seven-Months-in-the-War-Zone
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2009-10-05'
 gutenberg_type: Text
